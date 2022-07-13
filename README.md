@@ -1,4 +1,4 @@
-# contribution-academy-2021
+# contribution-academy-2022
 
 
 ### Question template 
@@ -41,8 +41,8 @@ so that GitHub automatically attach and insert it.
 
 **Environment Description**
  - OS: [e.g. macOS 10.14, Windows 10 (1903)]
- - App version: [e.g. 19.08.3] (if you are using a GUI client app)
- - Browser version: [e.g. Chrome 76, Safari, Edge] (if you are using a GUI web console)
- - Python version: [e.g. 3.7.4] (if you are using the Python SDK)
- - NodeJS version: [e.g. 12.0] (if you are using the Javascript SDK)
+ - App version: [e.g. 22.03.1] (if you are using a GUI client app)
+ - Browser version: [e.g. Chrome 101, Safari, Edge] (if you are using a GUI web console)
+ - Python version: [e.g. 3.10.5] (if you are using the Python SDK)
+ - NodeJS version: [e.g. 16.0] (if you are using the Javascript SDK)
  - Current Shell(💡 to see it, execute the command: `echo $SHELL`): [e.g. zsh]
